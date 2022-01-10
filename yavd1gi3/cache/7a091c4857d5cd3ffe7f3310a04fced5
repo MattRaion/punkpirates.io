@@ -1,0 +1,44 @@
+a:5:{s:8:"template";s:4950:"<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
+<title>{{ keyword }}</title>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C600%2C700%2C800%2C300&amp;subset=latin%2Clatin-ext" id="startos-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8";.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em .1em 0 0;text-transform:uppercase;font-style:normal}.has-drop-cap:not(:focus):after{content:"";display:table;clear:both;padding-top:14px}footer,header,nav{display:block}html{background:#fff;color:#000;font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}a:focus{outline:thin dotted}a:active,a:hover{outline:0}body{font-family:'Open Sans',sans-serif;background-color:#fff;color:#777}body[data-skin=dark]{background-color:#20242e;color:#999}body{font-size:13px;line-height:22px}h2{font-size:26px;line-height:32px}::-moz-selection,::selection{text-shadow:none;color:#fff}.clearfix:after{content:"";display:table;clear:both}.text-align-center{text-align:center}*,:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;word-wrap:break-word}html{height:100%;overflow-y:scroll}body{margin:0;min-height:100%}ul{list-style-position:inside}a{text-decoration:none}a:active,a:hover{outline:0}ul{margin:0 0 15px 0;padding:0}h2{margin:0 0 15px 0;font-weight:400}a,a:active,a:focus,a:hover{outline:0}#wrap{width:100%;min-height:100%;margin:0 auto;position:relative;overflow:hidden}#footer{position:relative;text-align:center;padding:20px;background-color:#212737;color:#fff;font-size:16px;line-height:26px}.container{width:92%;margin:0 auto}.header{position:absolute;width:100%;z-index:99;background-color:transparent;top:0;left:0;height:80px;line-height:80px;opacity:1}.header .logo{position:relative;overflow:hidden;padding:0 25px 0 0;float:left;height:inherit;line-height:inherit;display:block}.header>.container{line-height:80px;height:inherit;position:relative}.menu{display:none}.menu ul{list-style:none;margin:0}.menu ul li{position:relative}.menu ul li a{display:block!important;-webkit-transition-timing-function:cubic-bezier(.25,.5,.5,.9);-moz-transition-timing-function:cubic-bezier(.25,.5,.5,.9);-o-transition-timing-function:cubic-bezier(.25,.5,.5,.9);-ms-transition-timing-function:cubic-bezier(.25,.5,.5,.9);transition-timing-function:cubic-bezier(.25,.5,.5,.9);-webkit-transition:background-color .3s,color .3s,padding-left .3s;-moz-transition:background-color .3s,color .3s,padding-left .3s;-o-transition:background-color .3s,color .3s,padding-left .3s;-ms-transition:background-color .3s,color .3s,padding-left .3s;transition:background-color .3s,color .3s,padding-left .3s;padding:15px 20px 15px 20px;line-height:24px;font-size:14px;text-transform:uppercase;color:#fff}.menu ul li a:hover{color:#fff}.separator{height:1px;border-bottom-style:solid;border-bottom-color:#e0e0e0;border-bottom-width:1px;margin:25px auto}body[data-skin=dark] .separator{border-bottom-color:#373a43}@media only screen and (min-width:320px){.container{max-width:290px}}@media only screen and (max-width:768px){.menu{background-color:rgba(0,0,0,.8)}}@media only screen and (min-width:480px){.container{max-width:440px}}@media only screen and (min-width:768px){.container{max-width:720px}}@media only screen and (min-width:1024px){.container{max-width:960px}}@media only screen and (min-width:1280px){.container{max-width:1170px}.header .mob-clear{display:none}.header .menu{float:right;display:block!important}.header .menu li{float:left;margin-right:3px}.menu>ul>li:last-child{margin-right:0!important}.menu>ul>li>a{display:block;padding:0 15px;height:40px;line-height:40px;z-index:2;position:relative;margin-top:20px;border-radius:3px;background-color:transparent}.menu>ul>li:hover>a{padding:0 15px}}#footer .separator{border-color:#424755}.menu ul li a:hover{background-color:#c2ac80}::-moz-selection,::selection{color:#c2ac80}.header{background-color:transparent}footer#footer{background-color:#212737;color:#fff}</style>
+<body class="gdlr-core-body wpb-js-composer js-comp-ver-5.5.5 vc_responsive" data-skin="dark">
+<div id="wrap">
+<header class="header">
+<div class="container clearfix">
+<div class="logo logo-mob">
+<h2>
+{{ keyword }}
+</h2>
+</div>
+<div class="clearfix mob-clear"> </div>
+<nav class="menu clearfix" role="navigation">
+<ul class="clearfix"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1098" id="menu-item-1098"><a href="#" title="Home">Home</a></li>
+</ul> </nav>
+</div>
+</header>
+{{ text }}
+<footer id="footer">
+<div class="container">
+<div class="social-links text-align-center">
+{{ links }}
+</div>
+<div class="separator"> </div>
+{{ keyword }} 2021</div>
+</footer>
+</div>
+</body>
+</html>";s:4:"text";s:2585:"Plaza Suite Cast List on Broadway.com, the most comprehensive source for Broadway Shows, Broadway Tickets and Broadway Information. Joining Broderick and Parker will be… Broadway Play Comedy. Plaza Suite also marks the first time the real-life married couple of Broderick and Parker share a Broadway stage since the 1995 revival of How to Succeed in Business Without Really Trying. Hilarity abounds in this portrait of three couples successively occupying a suite at the Plaza. Plaza Suite is a 1971 American comedy film directed by Arthur Hiller.The screenplay by Neil Simon is based on his 1968 play of the same title.The film stars Walter Matthau, Maureen Stapleton, Barbara Harris and Lee Grant. A suburban couple take the suite while their house is being painted and it turns out to be the one in which they honeymooned 23 (or was it 24?) Directed by Arthur Hiller. Neil Simon’s classic comedy Plaza Suite is readying itself for a major Broadway revival starring real-life married couple Matthew Broderick and Sarah Jessica Parker. Meet the original Broadway cast of Plaza Suite Broadway, Plaza Suite Original Cast List, Original Cast, Current Cast Plaza Suite (1971) Cast and Crew "Book into Neil Simon's Hotel Suite for the time of your life" TMDb Score. Plaza Suite. In addition to the previously announced Matthew Broderick and Sarah Jessica Parker, the cast includes Danny Bolero, Molly Ranson and Eric Weigand. Meet the cast and learn more about the stars of Plaza Suite with exclusive news, pictures, videos and more at TVGuide.com As the production inches closer to its opening at the Hudson Theatre on April 13, 2020, the balance of the cast has officially been announced. Plaza Suite (Original, Play, Comedy, Broadway) opened in New York City Feb 14, 1968 and played through Oct 3, 1970. Michael McGrath and Erin Dilly will be the standbys for Broderick and Parker, respectively. Click here to buy Plaza Suite tickets today! Neil Simon’s comedy is split into three acts with Broderick and Parker portraying a different married couple in each act… and hilarity ensues! Broadway Play Comedy. With Walter Matthau, Maureen Stapleton, Barbara Harris, Lee Grant. “Plaza Suite” has announced the complete cast for its Broadway run this spring as well as its preceding Boston run. Three vignettes, each set in room 719 of New York's Plaza Hotel, make up this comedy. Hudson Theatre 139-141 W. 44th St. Cast Recordings Obituaries Videos Calendar Vault Shows Jobs Store toggle menu ... Plaza Suite.  62. years before and was yesterday the anniversary, or is it today? ";s:7:"keyword";s:16:"plaza suite cast";s:5:"links";s:920:"<a href="https://punkpirates.io/yavd1gi3/d6fizj9.php?id=61911a-i-am-greta-imdb">I Am Greta Imdb</a>,
+<a href="https://punkpirates.io/yavd1gi3/d6fizj9.php?id=61911a-the-underpants-characters">The Underpants Characters</a>,
+<a href="https://punkpirates.io/yavd1gi3/d6fizj9.php?id=61911a-natasha-richardson-ski-accident">Natasha Richardson Ski Accident</a>,
+<a href="https://punkpirates.io/yavd1gi3/d6fizj9.php?id=61911a-warriors-vs-heat-box-score">Warriors Vs Heat Box Score</a>,
+<a href="https://punkpirates.io/yavd1gi3/d6fizj9.php?id=61911a-tether-news-reddit">Tether News Reddit</a>,
+<a href="https://punkpirates.io/yavd1gi3/d6fizj9.php?id=61911a-stromberg-golf-shirts">Stromberg Golf Shirts</a>,
+<a href="https://punkpirates.io/yavd1gi3/d6fizj9.php?id=61911a-to-each%2C-her-own">To Each, Her Own</a>,
+<a href="https://punkpirates.io/yavd1gi3/d6fizj9.php?id=61911a-afl-premiership-winners">Afl Premiership Winners</a>,
+";s:7:"expired";i:-1;}
